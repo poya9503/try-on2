@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Stylist",
+  "description": "An application that allows users to virtually try on clothes and change the model's appearance using AI. Upload a character photo and a clothing photo to generate a try-on image. Then, select a model type to generate a final, stylized image.",
+  "requestFramePermissions": []
+}
